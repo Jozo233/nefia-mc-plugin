@@ -1,0 +1,6 @@
+name: Nefia
+version: '${project.version}'
+main: nefia.nefia.NefiaPlugin
+api-version: 1.19
+authors: [ Jozo_85 ]
+website: nefia.jozo85.ml

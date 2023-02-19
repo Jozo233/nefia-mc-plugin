@@ -1,0 +1,5 @@
+#Nefia v.1.0
+#Create by Jozo_85
+
+JoinMessage: '&5[+] %Player%'
+LeaveMessage: '&4[-] %Player%'
